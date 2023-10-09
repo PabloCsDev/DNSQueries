@@ -1,1 +1,1 @@
-# Teste de criação ,de uma basica ferramenta de bruteforce para estudos!!!!
+# Teste de criação de uma ferramenta basica de bruteforce para estudos!!!!
