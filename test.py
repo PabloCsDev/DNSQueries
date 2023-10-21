@@ -1,4 +1,4 @@
-#ferramenta para bruceforce basica
+#ferramenta para bruteforce basica
 
 import dns.resolver
 
