@@ -1,4 +1,3 @@
-#ferramenta para bruteforce basica
 
 import dns.resolver
 
