@@ -5,7 +5,7 @@ res = dns.resolver.Resolver()
 arquivo = open("listasubdominios.txt", "r")
 subdominios = arquivo.read().splitlines()
 
-alvo = "sitealvo"
+alvo = "sitealvo.com"
 
 for subdominio in subdominios:
     try:  
